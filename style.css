@@ -223,4 +223,12 @@ footer a {
     gap: 1rem;
   }
 
+  .form-group {
+    text-align: left;
+  }
+
+  button {
+    margin: 2rem 0;
+  }
+
 }
